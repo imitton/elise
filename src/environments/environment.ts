@@ -7,6 +7,6 @@
 
 export const environment = {
   production: false,
-  base_url: 'https://geotecinit.github.io/elise/#/home',
-  cases_json_url: 'https://raw.githubusercontent.com/GeoTecINIT/elise/main/src/assets/cases.json'
+  base_url: 'https://imitton.github.io/elise/#/home',
+  cases_json_url: 'https://raw.githubusercontent.com/imitton/elise/main/src/assets/cases.json'
 };
