@@ -423,18 +423,21 @@
         "geographic_extent": [
             [
                 "SE",
+                "SE3",
                 "SE33",
                 "SE331",
                 "SE2482"
             ],
             [
                 "SE",
+                "SE3",
                 "SE33",
                 "SE332",
                 "SE2580"
             ],
             [
                 "SE",
+                "SE3",
                 "SE33",
                 "SE332",
                 "SE2581"
@@ -448,6 +451,7 @@
             ],
             [
                 "ES",
+                "ES1",
                 "ES13",
                 "ES130",
                 "ES39075"
@@ -753,6 +757,7 @@
                 "CY5369"
             ],
             [
+                "LT",
                 "LT0",
                 "LT02",
                 "LT022",
@@ -786,7 +791,8 @@
             [
                 "IT",
                 "ITF",
-                "ITF4",
+                "ITF6",
+                "ITF65",
                 "IT080057"
             ],
             [
@@ -822,6 +828,54 @@
             "Data Science",
             "Societal Geosciences"
         ]
+    },
+    {
+        "_id": {
+            "$oid": "eu-31"
+        },
+        "name": "Limerick's initiative against noise pollution through Hush City app",
+        "source": "https://www.opensourcesoundscapes.org/hush-city/",
+        "description": "Is a free, crowdsourcing mobile app that enables citizens to identify and assess quiet areas, shared by the community, in cities in order to create an open access, web-based map of quiet areas.  Hush City is aimed at increasing civic awareness of the importance of safeguarding quiet areas in cities. In the context of Limerick, Hush City is being used as an initiative against noise pollution and is still at its early implementation stage.",
+        "pub_date": "2017",
+        "geographic_extent": [
+            [
+                "IE",
+                "IE0",
+                "IE05",
+                "IE051",
+                "IE14059"
+            ],
+            [
+                "DE",
+                "DE3",
+                "DE30",
+                "DE300",
+                "DE11000000"
+            ]
+        ],
+        "emerging_tech": [],
+        "tech_readiness_level": 1,
+        "scope": "local",
+        "public_value": [
+            [
+                "Collaboration",
+                "User-oriented"
+            ],
+            [
+                "Citizen Participation"
+            ],
+            [
+                "Environmental sustainability"
+            ]
+        ],
+        "theme_area": [
+            5.3
+        ],
+        "tech_trend": [
+            "Location & Position",
+            "Sensing and Observations"
+        ],
+        "details": "https://www.dropbox.com/s/ct0pz7grz7p68ib/ELISE_L1%20-%20Limerick.pdf?dl=0"
     },
     {
         "_id": {
@@ -1498,7 +1552,8 @@
             "Societal Geosciences",
             "Sensing and Observations",
             "Computer Engineering"
-        ]
+        ],
+        "details": "https://www.dropbox.com/s/xgsuyuvqudzwusa/ELISE_L1%20-%20Pilsen.pdf?dl=0"
     },
     {
         "_id": {
@@ -2091,7 +2146,8 @@
         "tech_trend": [
             "Location & Position",
             "Human Interfaces"
-        ]
+        ],
+        "details": "https://www.dropbox.com/s/2lydpzginwyaynh/ELISE_L1%20-%20Cascais.pdf?dl=0"
     },
     {
         "_id": {
@@ -2137,7 +2193,8 @@
             "Societal Geosciences",
             "Sensing and Observations",
             "Computer Engineering"
-        ]
+        ],
+        "details": "https://www.dropbox.com/s/qo362rc06awbw68/ELISE_L1%20-%20South%20Tyrol.pdf?dl=0"
     },
     {
         "_id": {
@@ -3589,7 +3646,7 @@
             ]
         ],
         "emerging_tech": [],
-        "tech_readiness_level": 0,
+        "tech_readiness_level": 4,
         "scope": "local",
         "public_value": [
             [
@@ -3761,7 +3818,7 @@
             ]
         ],
         "emerging_tech": [],
-        "tech_readiness_level": 0,
+        "tech_readiness_level": 4,
         "scope": "local",
         "public_value": [
             [
@@ -4479,7 +4536,8 @@
             "Human Interfaces",
             "Societal Geosciences",
             "Sensing and Observations"
-        ]
+        ],
+        "details": "https://www.dropbox.com/s/1r1d4vjqyy9ixsa/ELISE_L1%20-%20Amsterdam.pdf?dl=0"
     },
     {
         "_id": {
@@ -4617,7 +4675,7 @@
             ]
         ],
         "emerging_tech": [],
-        "tech_readiness_level": 0,
+        "tech_readiness_level": 4,
         "scope": "regional",
         "public_value": [
             [],
@@ -4699,7 +4757,7 @@
             ]
         ],
         "emerging_tech": [],
-        "tech_readiness_level": 0,
+        "tech_readiness_level": 4,
         "scope": "local",
         "public_value": [
             [
@@ -5816,7 +5874,8 @@
             "Societal Geosciences",
             "Sensing and Observations",
             "Computer Engineering"
-        ]
+        ],
+        "details": "https://www.dropbox.com/s/xzd7a5cq74ftpz3/ELISE_L1%20-%20Leuven.pdf?dl=0"
     },
     {
         "_id": {
@@ -6405,7 +6464,8 @@
         "tech_trend": [
             "Location & Position",
             "Human Interfaces"
-        ]
+        ],
+        "details": "https://www.dropbox.com/s/mls7ruwyae930cs/ELISE_L1%20-%20Ahrweiler.pdf?dl=0"
     },
     {
         "_id": {
@@ -6452,6 +6512,109 @@
         "tech_trend": [
             "Location & Position",
             "Human Interfaces"
-        ]
+        ],
+        "details": "https://www.dropbox.com/s/iql4w6jh170pjft/ELISE_L1%20-%20Ravenna.pdf?dl=0"
+    },
+    {
+        "_id": {
+            "$oid": "113"
+        },
+        "name": "Helpbidea (TRACASA)",
+        "source": "https://administracionelectronica.navarra.es/helpbidea/Buscar.html#",
+        "description": "Helpbidea aims to answer the request of solving emergency problems trying to reach isolated houses by emergency services. It answers the following questions:\n• Where: Those houses do not always have an address per se, and sometimes it is not easy to locate an address (different spellings, unofficial names, etc.)\n• How to reach the houses and\n• What kind of vehicle could be used to access the houses ",
+        "pub_date": "2017",
+        "geographic_extent": [
+            [
+                "ES",
+                "ES2",
+                "ES22",
+                "ES220"
+            ]
+        ],
+        "emerging_tech": [],
+        "tech_readiness_level": 4,
+        "scope": "regional",
+        "public_value": [
+            [
+                "Collaboration",
+                "Effectiveness",
+                "Efficiency",
+                "User-Oriented"
+            ],
+            [
+                "Citizen Participation",
+                "Equity in accessibility",
+                "Openness"
+            ],
+            [
+                "Trust",
+                "Quality of life",
+                "Inclusiveness",
+                "Environmental sustainability"
+            ]
+        ],
+        "theme_area": [
+            3.1,
+            3.2,
+            5.3,
+            7.4
+        ],
+        "tech_trend": [
+            "Location & Position",
+            "Human Interfaces"
+        ],
+        "details" : "https://www.dropbox.com/s/hab0fhw3cn5rtyu/ELISE_L1%20-%20Navarra.pdf?dl=0"
+    },
+    {
+        "_id": {
+            "$oid": "114"
+        },
+        "name": "CurieuzenAir",
+        "source": "https://curieuzenair.brussels/en/home/",
+        "description": "CurieuzenAir is a citizen science initiative in the Brussels Capital Region in which citizens collect data on air quality under the guidance of scientific experts. Through simultaneous measurements at 3000 different locations, air quality in Brussels is mapped and analyzed at unprecedented spatial detail. CurieuzenAir is the largest collaboration ever carried out between scientists and citizens in the Brussels Capital. It is inspired by and builds further on two previous CurieuzeNeuzen projects organized in the City of Antwerp (“CurieuzeNeuzen Antwerp”) and the Flemish Region (“CurieuzeNeuzen Vlaanderen”). These projects examine the air quality of citizens in their streets, by collecting nitrogen dioxide concentrations on a large scale and making available these air quality to the general public. Volunteering citizens and organizations attached a simple measuring device to the outside of a window on the street side, through which they measured the concentration of NO2 throughout an entire month. ",
+        "pub_date": "2021",
+        "geographic_extent": [
+            [
+                "BE",
+                "BE1",
+                "BE10"
+            ]
+        ],
+        "emerging_tech": [],
+        "tech_readiness_level": 4,
+        "scope": "regional",
+        "public_value": [
+            [
+                "Collaboration",
+                "Effectiveness",
+                "Efficiency",
+                "User-Oriented"
+            ],
+            [
+                "Transparency",
+                "Accountability",
+                "Citizen Participation",
+                "Equity in accessibility",
+                "Openness"
+            ],
+            [
+                "Trust",
+                "Quality of life",
+                "Inclusiveness",
+                "Environmental sustainability"
+            ]
+        ],
+        "theme_area": [
+            5.5,
+            5.3
+        ],
+        "tech_trend": [
+            "Location & Position",
+            "Spatial-Temporal Models",
+            "Human Interfaces",
+            "Societal Geosciences",
+            "Sensing and Observations"
+        ],
+        "details" : "https://www.dropbox.com/s/ue93mmkjd1ciq4p/ELISE_L1%20-%20Brussels.pdf?dl=0"
     }
 ]
